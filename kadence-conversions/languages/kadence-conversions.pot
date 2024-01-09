@@ -1,0 +1,1137 @@
+# Copyright (C) 2022 Kadence WP
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Kadence Conversions - Popups, slide-ins 1.0.5\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/kadence-conversions\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-07-06T19:12:42+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: kadence-conversions\n"
+
+#. Plugin Name of the plugin
+msgid "Kadence Conversions - Popups, slide-ins"
+msgstr ""
+
+#. Description of the plugin
+msgid "Create popups and slide ins that generate leads. Convert your views to an engaged audience of followers, customers and promoters."
+msgstr ""
+
+#. Author of the plugin
+msgid "Kadence WP"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://kadencewp.com/"
+msgstr ""
+
+#: class-kadence-conversions.php:90
+msgid "All Conversion Items"
+msgstr ""
+
+#: class-kadence-conversions.php:158
+#: inc/class-kadence-conversions-settings.php:60
+msgid "Settings"
+msgstr ""
+
+#: class-kadence-conversions.php:173
+msgid "Kadence Conversions - Popups, Slid-ins, Embed"
+msgstr ""
+
+#: class-kadence-conversions.php:173
+msgid "Conversions"
+msgstr ""
+
+#: class-kadence-conversions.php:207
+msgid "Install Kadence Blocks"
+msgstr ""
+
+#: class-kadence-conversions.php:210
+msgid "Activate Kadence Blocks"
+msgstr ""
+
+#. translators: %s is a link to kadence block plugin.
+#: class-kadence-conversions.php:227
+msgid "Kadence Conversions requires %s to be active for all functions to work."
+msgstr ""
+
+#: class-kadence-conversions.php:229
+msgid "Activating..."
+msgstr ""
+
+#: class-kadence-conversions.php:229
+msgid "Activated"
+msgstr ""
+
+#: class-kadence-conversions.php:229
+msgid "Installing..."
+msgstr ""
+
+#: class-kadence-conversions.php:229
+msgid "Installed"
+msgstr ""
+
+#: inc/class-analytics-ajax.php:33
+msgid "Cloning instances of the class is Forbidden"
+msgstr ""
+
+#: inc/class-analytics-ajax.php:43
+msgid "Unserializing instances of the class is forbidden"
+msgstr ""
+
+#: inc/class-analytics-dashboard-util.php:124
+msgid "Error when querying the database for counting events."
+msgstr ""
+
+#: inc/class-analytics-dashboard-util.php:188
+msgid "Error when querying the database for events."
+msgstr ""
+
+#: inc/class-analytics-dashboard-util.php:261
+msgid "Error when querying the database for total events."
+msgstr ""
+
+#: inc/class-analytics-dashboard-util.php:306
+#: inc/class-analytics-dashboard-util.php:310
+#: inc/class-analytics-dashboard-util.php:339
+msgid "Invalid Period"
+msgstr ""
+
+#: inc/class-conversions-duplicate-post.php:55
+msgid "Make a duplicate from this."
+msgstr ""
+
+#: inc/class-conversions-duplicate-post.php:56
+msgid "Duplicate"
+msgstr ""
+
+#: inc/class-conversions-duplicate-post.php:66
+msgid "No post to duplicate has been supplied!"
+msgstr ""
+
+#. translators: %s: product id
+#: inc/class-conversions-duplicate-post.php:76
+msgid "Post creation failed, could not find original post: %s"
+msgstr ""
+
+#: inc/class-conversions-duplicate-post.php:95
+msgid "%s (Copy)"
+msgstr ""
+
+#: inc/class-conversions-post-type-controller.php:166
+#: inc/class-conversions-post-type-controller.php:1258
+msgid "Draft"
+msgstr ""
+
+#: inc/class-conversions-post-type-controller.php:167
+#: inc/class-conversions-post-type-controller.php:1258
+msgid "Published"
+msgstr ""
+
+#: inc/class-conversions-post-type-controller.php:269
+msgid "Popups"
+msgstr ""
+
+#: inc/class-conversions-post-type-controller.php:272
+msgid "Slide-ins"
+msgstr ""
+
+#: inc/class-conversions-post-type-controller.php:275
+#: inc/class-conversions-post-type-controller.php:1204
+#: build/conversions.js:6
+msgid "Banner"
+msgstr ""
+
+#: inc/class-conversions-post-type-controller.php:495
+msgid "Basic"
+msgstr ""
+
+#: inc/class-conversions-post-type-controller.php:499
+#: inc/class-conversions-post-type-controller.php:1345
+#: inc/class-conversions-post-type-controller.php:1348
+#: build/conversions.js:6
+msgid "All Users"
+msgstr ""
+
+#: inc/class-conversions-post-type-controller.php:503
+msgid "Logged out Users"
+msgstr ""
+
+#: inc/class-conversions-post-type-controller.php:507
+msgid "Logged in Users"
+msgstr ""
+
+#: inc/class-conversions-post-type-controller.php:521
+msgid "Specific Role"
+msgstr ""
+
+#: inc/class-conversions-post-type-controller.php:534
+#: inc/class-kadence-conversions-settings.php:103
+msgid "General"
+msgstr ""
+
+#: inc/class-conversions-post-type-controller.php:538
+#: inc/class-conversions-post-type-controller.php:1330
+#: build/conversions.js:6
+msgid "Entire Site"
+msgstr ""
+
+#: inc/class-conversions-post-type-controller.php:542
+msgid "Front Page"
+msgstr ""
+
+#: inc/class-conversions-post-type-controller.php:546
+msgid "Blog Page"
+msgstr ""
+
+#: inc/class-conversions-post-type-controller.php:550
+msgid "Search Results"
+msgstr ""
+
+#: inc/class-conversions-post-type-controller.php:554
+msgid "Not Found (404)"
+msgstr ""
+
+#: inc/class-conversions-post-type-controller.php:558
+msgid "All Singular"
+msgstr ""
+
+#: inc/class-conversions-post-type-controller.php:562
+msgid "All Archives"
+msgstr ""
+
+#: inc/class-conversions-post-type-controller.php:566
+msgid "Author Archives"
+msgstr ""
+
+#: inc/class-conversions-post-type-controller.php:570
+msgid "Date Archives"
+msgstr ""
+
+#: inc/class-conversions-post-type-controller.php:574
+msgid "Paged"
+msgstr ""
+
+#: inc/class-conversions-post-type-controller.php:594
+#: inc/class-conversions-post-type-controller.php:637
+msgid "Single"
+msgstr ""
+
+#. translators: %1$s: taxonomy singular label.
+#: inc/class-conversions-post-type-controller.php:603
+msgid "%1$s Archives"
+msgstr ""
+
+#. translators: %1$s: post type plural label
+#: inc/class-conversions-post-type-controller.php:611
+msgid "%1$s Archive"
+msgstr ""
+
+#. translators: %1$s: post type plural label
+#: inc/class-conversions-post-type-controller.php:618
+msgid "%1$s Search"
+msgstr ""
+
+#: inc/class-conversions-post-type-controller.php:655
+msgid "Action Triggers"
+msgstr ""
+
+#: inc/class-conversions-post-type-controller.php:659
+msgid "Fixed On Top"
+msgstr ""
+
+#: inc/class-conversions-post-type-controller.php:663
+msgid "Fixed Above Transparent Header"
+msgstr ""
+
+#: inc/class-conversions-post-type-controller.php:667
+msgid "Fixed Top After Scroll"
+msgstr ""
+
+#: inc/class-conversions-post-type-controller.php:671
+msgid "Fixed Bottom After Scroll (no space below footer)"
+msgstr ""
+
+#: inc/class-conversions-post-type-controller.php:675
+msgid "Fixed Bottom After Scroll"
+msgstr ""
+
+#: inc/class-conversions-post-type-controller.php:679
+msgid "Fixed On Bottom"
+msgstr ""
+
+#: inc/class-conversions-post-type-controller.php:683
+msgid "Fixed Bottom (no space below footer)"
+msgstr ""
+
+#: inc/class-conversions-post-type-controller.php:830
+msgid "Assigned Course"
+msgstr ""
+
+#: inc/class-conversions-post-type-controller.php:1160
+msgid "Status"
+msgstr ""
+
+#: inc/class-conversions-post-type-controller.php:1161
+msgid "Type"
+msgstr ""
+
+#: inc/class-conversions-post-type-controller.php:1162
+msgid "Trigger"
+msgstr ""
+
+#: inc/class-conversions-post-type-controller.php:1163
+msgid "Display"
+msgstr ""
+
+#: inc/class-conversions-post-type-controller.php:1164
+msgid "Visibility"
+msgstr ""
+
+#: inc/class-conversions-post-type-controller.php:1201
+msgid "Slide-in"
+msgstr ""
+
+#: inc/class-conversions-post-type-controller.php:1207
+#: build/conversions.js:6
+msgid "Popup"
+msgstr ""
+
+#: inc/class-conversions-post-type-controller.php:1220
+#: build/conversions.js:6
+msgid "Time Delay"
+msgstr ""
+
+#: inc/class-conversions-post-type-controller.php:1223
+#: build/conversions.js:6
+msgid "Exit Intent"
+msgstr ""
+
+#: inc/class-conversions-post-type-controller.php:1226
+#: build/conversions.js:6
+msgid "Scroll Distance"
+msgstr ""
+
+#: inc/class-conversions-post-type-controller.php:1229
+#: build/conversions.js:6
+msgid "End of Content"
+msgstr ""
+
+#: inc/class-conversions-post-type-controller.php:1232
+#: build/conversions.js:6
+msgid "On Load"
+msgstr ""
+
+#: inc/class-conversions-post-type-controller.php:1235
+#: build/conversions.js:6
+msgid "Custom Link"
+msgstr ""
+
+#: inc/class-conversions-post-type-controller.php:1238
+#: inc/class-conversions-post-type-controller.php:1361
+#: inc/class-conversions-post-type-controller.php:1364
+#: build/conversions.js:6
+msgid "None"
+msgstr ""
+
+#: inc/class-conversions-post-type-controller.php:1274
+msgid "Show on:"
+msgstr ""
+
+#: inc/class-conversions-post-type-controller.php:1334
+msgid "Visible to:"
+msgstr ""
+
+#: inc/class-conversions-post-type-controller.php:1350
+msgid "Hidden to:"
+msgstr ""
+
+#: inc/class-kadence-conversions-settings.php:36
+#: inc/class-kadence-conversions-settings.php:56
+msgid "Dashboard"
+msgstr ""
+
+#: inc/class-kadence-conversions-settings.php:37
+msgid "Kadence Conversions"
+msgstr ""
+
+#: inc/class-kadence-conversions-settings.php:64
+msgid "Getting Started"
+msgstr ""
+
+#: inc/class-kadence-conversions-settings.php:68
+msgid "Changelog"
+msgstr ""
+
+#: inc/class-kadence-conversions-settings.php:72
+msgid "Welcome to Kadence Conversions"
+msgstr ""
+
+#: inc/class-kadence-conversions-settings.php:73
+msgid "We are working on a getting started video to be added below here, it's coming soon."
+msgstr ""
+
+#: inc/class-kadence-conversions-settings.php:76
+msgid "View Knowledge Base"
+msgstr ""
+
+#: inc/class-kadence-conversions-settings.php:80
+msgid "Web Creators Community"
+msgstr ""
+
+#: inc/class-kadence-conversions-settings.php:81
+msgid "Join our community of fellow kadence users creating effective websites! Share your site, ask a question and help others."
+msgstr ""
+
+#: inc/class-kadence-conversions-settings.php:83
+msgid "Join our Facebook Group"
+msgstr ""
+
+#: inc/class-kadence-conversions-settings.php:86
+msgid "Documentation"
+msgstr ""
+
+#: inc/class-kadence-conversions-settings.php:87
+msgid "Need help? We have a knowledge base full of articles to get you started."
+msgstr ""
+
+#: inc/class-kadence-conversions-settings.php:89
+msgid "Browse Docs"
+msgstr ""
+
+#: inc/class-kadence-conversions-settings.php:92
+msgid "Support"
+msgstr ""
+
+#: inc/class-kadence-conversions-settings.php:93
+msgid "Have a question, we are happy to help! Get in touch with our support team."
+msgstr ""
+
+#: inc/class-kadence-conversions-settings.php:95
+msgid "Submit a Ticket"
+msgstr ""
+
+#: inc/class-kadence-conversions-settings.php:104
+msgid "General Settings"
+msgstr ""
+
+#: inc/class-kadence-conversions-settings.php:110
+msgid "Enable Local Analytics."
+msgstr ""
+
+#: inc/class-kadence-conversions-settings.php:111
+msgid "This will keep a record of conversion views and conversion goal events."
+msgstr ""
+
+#: inc/class-kadence-conversions-settings.php:117
+msgid "Enable Google Analytics Events Tracking."
+msgstr ""
+
+#: inc/class-kadence-conversions-settings.php:118
+msgid "Optional, if you want conversions to trigger events in google analytics."
+msgstr ""
+
+#: inc/class-kadence-conversions-setup.php:112
+msgid "The %s table is not installed."
+msgstr ""
+
+#: inc/post-select-rest-controller.php:222
+msgid "Limit results to items of an object type."
+msgstr ""
+
+#: inc/post-select-rest-controller.php:233
+msgid "Limit results to items that match search query."
+msgstr ""
+
+#: inc/post-select-rest-controller.php:238
+msgid "Include posts by ID."
+msgstr ""
+
+#: inc/post-select-rest-controller.php:245
+msgid "Number of results to return."
+msgstr ""
+
+#: inc/post-select-rest-controller.php:252
+msgid "Page of results to return."
+msgstr ""
+
+#. translators: %s: taxonomy name
+#: inc/post-select-rest-controller.php:263
+msgid "Limit result set to all items that have the specified term assigned in the %s taxonomy."
+msgstr ""
+
+#. translators: %s: color hex code e.g: "#f00".
+#: build/conversions.js:4
+msgid "URL"
+msgstr ""
+
+#: build/conversions.js:4
+msgid "Paste or type URL"
+msgstr ""
+
+#: build/conversions.js:4
+msgid "Apply"
+msgstr ""
+
+#: build/conversions.js:4
+msgid "To edit this block, you need permission to upload media."
+msgstr ""
+
+#: build/conversions.js:4
+msgid "Upload a media file or pick one from your media library."
+msgstr ""
+
+#: build/conversions.js:4
+msgid "Upload an audio file, pick one from your media library, or add one with a URL."
+msgstr ""
+
+#: build/conversions.js:4
+msgid "Upload an image file, pick one from your media library, or add one with a URL."
+msgstr ""
+
+#: build/conversions.js:4
+msgid "Upload a video file, pick one from your media library, or add one with a URL."
+msgstr ""
+
+#: build/conversions.js:4
+msgid "Cancel"
+msgstr ""
+
+#: build/conversions.js:4
+msgid "Insert from URL"
+msgstr ""
+
+#: build/conversions.js:4
+msgid "Select Image"
+msgstr ""
+
+#. translators: %s is Prebuilt Name
+#: build/conversions.js:6
+msgid "Hours"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Minutes"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "AM"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "PM"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Desktop"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Tablet"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Mobile"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Slide-In"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Monday"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Tuesday"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Wednesday"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Thursday"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Friday"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Saturday"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Sunday"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Launch Triggers"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Delay in milliseconds"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Scroll down distance"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Hide again if scroll up?"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Use this in the link field to trigger opening conversion item"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Conversion Settings"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Enable Analytics Tracking"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Conversion Goal"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Submit Form"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Click Button"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Here define a specific class which will be the only class that converts the Conversion."
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Close Conversion on Goal Event?"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Repeat Control"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Enable Repeat Control"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Uses Cookies to prevent conversions from appearing if a user has closed one out."
+msgstr ""
+
+#: build/conversions.js:6
+msgid "On Close, Cookie Expires ( Days )"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "On Goal Event, Cookie Expires ( Days )"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "This defines the cookie used for repeat control."
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Position Settings"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Horizontal Align"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Center"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Left"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Right"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Vertical Align"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Top"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Middle"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Bottom"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Size Settings"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Height"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Auto"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Set Minimum Height"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Full Screen Height"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Minimum Height"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Inner Vertical Alignment"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Maximum Width"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Inner Content Max Width"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Container Styling"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Background Color"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Background Image"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Border Color"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Border Width"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Border Radius"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Padding"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Margin"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Box Shadow"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Overlay Settings"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Overlay Opacity"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Target Pages"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Show On"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "All show rules must be true?"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Exclude Settings"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Hide On"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Target Visitors"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Visible to"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Hidden to"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Target Language"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Display on language:"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "All Languages"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Target Woocommerce Cart"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Only show when cart currency total value is more than."
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Cart total more than currency value"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Only show when cart currency total value is less than."
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Cart Total less than currency value"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Only show if specific products in cart."
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Select Products"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Selected"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Hide if specific products in cart."
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Show on Device"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Target Requests"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Add one pattern per line."
+msgstr ""
+
+#: build/conversions.js:6
+msgid "example=true"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Do not include https:// or www. For multiple domains separate with common. Please note, some sites do not pass referrer information."
+msgstr ""
+
+#: build/conversions.js:6
+msgid "example.com"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Cookie name must match exactly."
+msgstr ""
+
+#: build/conversions.js:6
+msgid "cookie_name"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Only show after a specific amount of page views?"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Page Views Amount"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Scheduling"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Enable Range Scheduling"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Starts"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Expires"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Enable Recurring Scheduling"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Start Time"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Stop Time"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Recurring Days"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Animation Settings"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Open Animation"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Fade In"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Fade In Up"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Fade In Down"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Fade In Left"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Fade In Right"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Slide In Up"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Slide In Down"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Slide In Left"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Slide In Right"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Zoom In"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Close Animation"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Fade Out"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Fade Out Up"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Fade Out Down"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Fade Out Left"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Fade Out Right"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Slide Out Up"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Slide Out Down"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Slide Out Left"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Slide Out Right"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Zoom Out"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Close Settings"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Enable Close on outside click"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Enable Close Button"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Position"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Inside Box"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Outside Box"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Edge of Screen"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Alignment"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Vertical Alignment"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Close Button Content"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Icon"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Text"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Close Font Size"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Close Icon Size"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Close Button Label"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Close Color"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Color"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Hover"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Close Background"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Background"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Z-Index Control"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Add Blocks..."
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Conversion Template Select"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Conversion Type"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Choose Conversion Type"
+msgstr ""
+
+#: build/conversions.js:6
+#: build/dashboard.js:1
+msgid "Conversion Item"
+msgstr ""
+
+#: build/conversions.js:6
+msgid "Close"
+msgstr ""
+
+#: build/dashboard.js:1
+msgid "Empty Title -"
+msgstr ""
+
+#: build/dashboard.js:1
+msgid "Recent Performance"
+msgstr ""
+
+#: build/dashboard.js:1
+msgid "Period"
+msgstr ""
+
+#: build/dashboard.js:1
+msgid "Last 7 Days"
+msgstr ""
+
+#: build/dashboard.js:1
+msgid "Last 30 Days"
+msgstr ""
+
+#: build/dashboard.js:1
+msgid "Last 90 Days"
+msgstr ""

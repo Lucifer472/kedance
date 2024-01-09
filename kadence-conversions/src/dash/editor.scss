@@ -1,0 +1,20 @@
+//Post Select
+.kc-analytics-header {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 5px;
+    border-bottom: 1px solid #eee;
+	align-items: center;
+	.components-base-control {
+		margin-left: 10px;
+		label.components-input-control__label {
+			display: none;
+		}
+	}
+}
+.dashboard-modules-wrapper .kc-analytics-header h2 {
+    border: 0;
+    margin: 0;
+    padding: 0;
+    flex-grow: 1;
+}
